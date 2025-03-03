@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
-<h3 align="center">A UI/UX Designer with a Fullstack Background</h3>
+<h3 align="center">A Fullstack Developer with a specialty in design</h3>
 
 - 🌱 I’m currently learning **Computer Vision and AI**
 
