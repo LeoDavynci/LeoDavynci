@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lin_vince@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkBtmOUs6VTDvwUHjb7IjyWrOau6bQZc/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uXS4lskFhEFTAvIFez5dvipBNZErGYNy/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
