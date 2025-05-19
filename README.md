@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
-<h3 align="center">A Fullstack Developer with a specialty in design</h3>
+<h3 align="center">Product/UI/UX Designer with a technical background</h3>
 
 - 🌱 I’m currently learning **Computer Vision and AI**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://vincelin.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://vincelin.vercel.app/](https://www.vincelin.co/))
 
 - 📫 How to reach me **lin_vince@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uXS4lskFhEFTAvIFez5dvipBNZErGYNy/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
